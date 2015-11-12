@@ -1,0 +1,12 @@
+# Site settings
+title: Développeur  Éclectique 
+email: richard.hitier@co-libri.org
+description: > # this means to ignore newlines until "baseurl:"
+    Développement de systèmes robustes et évolutifs avec les
+    technologies des logiciels libres.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://nextJekyll.github.io" # the base hostname & protocol for your site
+github_username:  richardhitier
+
+# Build settings
+markdown: kramdown
