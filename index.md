@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Développeur éclectique pour la vie locale"
-description: ""
+title: "Accueil"
+description: "Développeur éclectique pour la vie locale"
 ---
 
 ## Bonjour,
