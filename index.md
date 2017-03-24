@@ -66,10 +66,6 @@ cartes interactives.
 - [osm](https://www.openstreetmap.org/user/RichardHitier)
 - [umap](http://umap.openstreetmap.fr/en/user/RichardHitier/)
 
-### consultez mon cv:
-
-- [long](http://www.co-libri.org/richard_hitier.pdf)
-
 ### contactez moi directement:
 
 mèl: richard.hitier@co-libri.org
