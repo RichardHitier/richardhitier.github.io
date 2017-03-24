@@ -10,3 +10,4 @@ github_username:  richardhitier
 
 # Build settings
 markdown: kramdown
+theme: minima
